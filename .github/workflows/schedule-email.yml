@@ -33,4 +33,5 @@ jobs:
         with:
           app-path: weather_app.py
           ruff: true
+          pre-install-command: pip install streamlit
           install-command: uv sync --locked --all-extras --dev
