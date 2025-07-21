@@ -1,5 +1,5 @@
-import streamlit as st
 import pandas as pd
+import streamlit as st
 from great_tables import GT, loc, style
 import plotly.express as px
 

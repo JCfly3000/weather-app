@@ -33,3 +33,4 @@ jobs:
         with:
           app-path: weather_app.py
           ruff: true
+          install-command: uv sync --locked --all-extras --dev
