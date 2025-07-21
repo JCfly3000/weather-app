@@ -210,9 +210,14 @@ display_gt <- function(combined_df) {
 
 ## 3 create a streamlit app  into weather_app.py
 
-### have a dropdown to select city
+### have a dropdown bottom to select city
+
+### inlcude download bottom to download csv file which been filter by the dropdown bottom
+
+
+### inlcude a plotly(https://github.com/plotly/plotly.py) temperature line chart
+
 
 ### include a gt table(https://github.com/posit-dev/great-tables) with the data
 
-### inlcude a plotly(https://github.com/plotly/plotly.py) temperature line chart
 
