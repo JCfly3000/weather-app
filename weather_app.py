@@ -19,6 +19,31 @@ selected_city = st.selectbox("Select a city", cities)
 # Filter data for the selected city
 city_df = weather_df[weather_df["City"] == selected_city].reset_index(drop=True)
 
+@st.cache_data
+def convert_df_to_csv(df):
+    # IMPORTANT: Cache the conversion to prevent computation on every rerun
+    return df.to_csv(index=False).encode("utf-8")
+
+
+csv = convert_df_to_csv(city_df)
+
+st.download_button(
+    label="Download Weather Data (CSV)",
+    data=csv,
+    file_name=f"{selected_city}_weather_data.csv",
+    mime="text/csv",
+)
+
+
+# Display the Plotly chart
+st.header("Temperature Trend")
+fig = px.line(city_df, x="date", y=["temperature_max", "temperature_min"], 
+              labels={"value": "Temperature (°C)", "variable": "Temperature Type"},
+              title="Max and Min Daily Temperatures")
+st.plotly_chart(fig, use_container_width=True)
+
+
+
 # Display the Great Table
 st.header(f"Weather Forecast for {selected_city}")
 
@@ -73,9 +98,3 @@ gt = gt.cols_label(
 
 st.html(gt._repr_html_())
 
-# Display the Plotly chart
-st.header("Temperature Trend")
-fig = px.line(city_df, x="date", y=["temperature_max", "temperature_min"], 
-              labels={"value": "Temperature (°C)", "variable": "Temperature Type"},
-              title="Max and Min Daily Temperatures")
-st.plotly_chart(fig, use_container_width=True)

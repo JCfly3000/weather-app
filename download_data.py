@@ -119,8 +119,8 @@ def generate_weather_data(city_name, lat, lon):
 
     return combined_df
 
-if __name__ == "__main__":
-    cities = {
+
+cities = {
         "Shenzhen": (22.5431, 114.0579),
         "Bangkok": (13.7563, 100.5018),
         "Tokyo": (35.6895, 139.6917),
@@ -130,17 +130,20 @@ if __name__ == "__main__":
         "Los Angeles": (34.0522, -118.2437),
         "Paris": (48.8566, 2.3522),
         "Beijing": (39.9042, 116.4074)
-    }
+}
 
-    all_data = []
-    for city, (lat, lon) in cities.items():
-        print(f"Fetching data for {city}...")
-        city_data = generate_weather_data(city, lat, lon)
-        if city_data is not None:
-            all_data.append(city_data)
+all_data = []
 
-    if all_data:
-        final_df = pd.concat(all_data, ignore_index=True)
-        final_df.to_csv("weather_data.csv", index=False)
-        print("Data downloaded and saved to weather_data.csv")
+for city, (lat, lon) in cities.items():
+    print(f"Fetching data for {city}...")
+    city_data = generate_weather_data(city, lat, lon)
+    if city_data is not None:
+        all_data.append(city_data)
+
+if all_data:
+    final_df = pd.concat(all_data, ignore_index=True)
+    final_df.to_csv("weather_data.csv", index=False)
+    print("Data downloaded and saved to weather_data.csv")
+
+
 
