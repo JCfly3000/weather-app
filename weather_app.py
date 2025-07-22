@@ -12,6 +12,8 @@ def load_data():
 
 weather_df = load_data()
 
+weather_df=weather_df.drop(columns=["lat", "lon","forecast_flag","weather_code"])
+
 # City selection
 cities = weather_df["City"].unique()
 selected_city = st.selectbox("Select a city", cities)
@@ -94,7 +96,8 @@ gt = gt.cols_label(
     pm2_5="PM2.5",
     us_aqi="US AQI",
     us_aqi_status="AQI Status"
-)
+).cols_hide(columns="City")
+
 
 st.html(gt._repr_html_())
 
