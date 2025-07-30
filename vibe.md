@@ -198,7 +198,7 @@ display_gt <- function(combined_df) {
 
 ### download data from using https://air-quality-api.open-meteo.com 
 
-#### include city: Shenzhen, Bangkok,Tokyo,Seoul,London,New York,Los Angeles,Paris,Beijing
+#### include city: Shenzhen, Bangkok,Tokyo,Seoul,London,New York,Beijing
 
 #### date include past 7 days and future 7 days
 
