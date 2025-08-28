@@ -1,35 +1,19 @@
 date,weather_code,temperature_max,temperature_min,rain_prob,day,weather,pm2_5,us_aqi,City,lat,lon,forecast_flag,us_aqi_status
-2025-08-20,3,30.9,27.0,16,Wed,Overcast,14.7,64.0,Shenzhen,22.5431,114.0579,current,Moderate
-2025-08-21,3,31.0,27.3,11,Thu,Overcast,15.4,63.0,Shenzhen,22.5431,114.0579,current,Moderate
-2025-08-22,3,31.3,27.2,8,Fri,Overcast,43.65,126.5,Shenzhen,22.5431,114.0579,current,Unhealthy for Sensitive Groups
-2025-08-23,3,33.9,26.7,7,Sat,Overcast,29.7,175.5,Shenzhen,22.5431,114.0579,current,Unhealthy
-2025-08-24,3,31.5,27.3,21,Sun,Overcast,10.95,55.0,Shenzhen,22.5431,114.0579,current,Moderate
-2025-08-25,80,32.0,27.2,24,Mon,Light Showers,10.350000000000001,50.0,Shenzhen,22.5431,114.0579,current,Good
-2025-08-26,80,32.8,27.0,6,Tue,Light Showers,17.4,54.5,Shenzhen,22.5431,114.0579,current,Moderate
-2025-08-27,80,32.3,27.4,14,Wed,Light Showers,42.5,113.0,Shenzhen,22.5431,114.0579,current,Unhealthy for Sensitive Groups
-2025-08-28,80,30.5,27.2,30,Thu,Light Showers,,,Shenzhen,22.5431,114.0579,forecast,N/A
-2025-08-29,3,34.3,27.9,13,Fri,Overcast,,,Shenzhen,22.5431,114.0579,forecast,N/A
-2025-08-30,3,33.0,27.6,18,Sat,Overcast,,,Shenzhen,22.5431,114.0579,forecast,N/A
-2025-08-31,80,32.4,27.7,40,Sun,Light Showers,,,Shenzhen,22.5431,114.0579,forecast,N/A
-2025-09-01,80,30.7,27.6,37,Mon,Light Showers,,,Shenzhen,22.5431,114.0579,forecast,N/A
-2025-09-02,80,32.1,27.7,33,Tue,Light Showers,,,Shenzhen,22.5431,114.0579,forecast,N/A
-2025-09-03,3,32.6,27.7,27,Wed,Overcast,,,Shenzhen,22.5431,114.0579,forecast,N/A
-2025-08-20,3,20.2,15.3,0,Wed,Overcast,4.0,30.0,London,51.5074,-0.1278,current,Good
-2025-08-21,3,20.6,14.3,0,Thu,Overcast,4.1,27.0,London,51.5074,-0.1278,current,Good
-2025-08-22,3,22.2,12.4,0,Fri,Overcast,5.0,25.0,London,51.5074,-0.1278,current,Good
-2025-08-23,3,22.5,16.5,0,Sat,Overcast,6.6,29.0,London,51.5074,-0.1278,current,Good
-2025-08-24,3,24.3,14.5,0,Sun,Overcast,5.25,29.5,London,51.5074,-0.1278,current,Good
-2025-08-25,3,26.7,15.5,0,Mon,Overcast,6.4,29.0,London,51.5074,-0.1278,current,Good
-2025-08-26,80,24.6,18.2,4,Tue,Light Showers,6.65,31.0,London,51.5074,-0.1278,current,Good
-2025-08-27,61,21.9,15.6,14,Wed,Light Rain,7.7,29.5,London,51.5074,-0.1278,current,Good
-2025-08-28,3,21.1,14.3,13,Thu,Overcast,,,London,51.5074,-0.1278,forecast,N/A
-2025-08-29,80,21.8,15.5,30,Fri,Light Showers,,,London,51.5074,-0.1278,forecast,N/A
-2025-08-30,61,19.9,13.6,33,Sat,Light Rain,,,London,51.5074,-0.1278,forecast,N/A
-2025-08-31,3,20.6,14.0,8,Sun,Overcast,,,London,51.5074,-0.1278,forecast,N/A
-2025-09-01,3,21.6,14.4,23,Mon,Overcast,,,London,51.5074,-0.1278,forecast,N/A
-2025-09-02,3,20.1,11.8,18,Tue,Overcast,,,London,51.5074,-0.1278,forecast,N/A
-2025-09-03,95,20.4,14.4,31,Wed,Thunderstorm,,,London,51.5074,-0.1278,forecast,N/A
-2025-08-20,2,36.7,27.2,3,Wed,Partly Cloudy,23.9,72.5,Shanghai,31.2304,121.4737,current,Moderate
+2025-08-21,95,34.3,26.6,24,Thu,Thunderstorm,18.6,59.5,Bangkok,13.7563,100.5018,current,Moderate
+2025-08-22,95,31.4,25.5,38,Fri,Thunderstorm,11.6,57.5,Bangkok,13.7563,100.5018,current,Moderate
+2025-08-23,95,32.1,25.0,13,Sat,Thunderstorm,7.7,36.5,Bangkok,13.7563,100.5018,current,Good
+2025-08-24,95,33.4,24.4,11,Sun,Thunderstorm,8.7,32.0,Bangkok,13.7563,100.5018,current,Good
+2025-08-25,95,32.5,24.9,9,Mon,Thunderstorm,8.05,39.0,Bangkok,13.7563,100.5018,current,Good
+2025-08-26,61,31.2,26.0,11,Tue,Light Rain,4.25,24.0,Bangkok,13.7563,100.5018,current,Good
+2025-08-27,3,30.3,25.3,9,Wed,Overcast,5.5,25.0,Bangkok,13.7563,100.5018,current,Good
+2025-08-28,95,32.5,25.0,5,Thu,Thunderstorm,9.6,32.5,Bangkok,13.7563,100.5018,current,Good
+2025-08-29,3,35.0,25.4,11,Fri,Overcast,,,Bangkok,13.7563,100.5018,forecast,N/A
+2025-08-30,95,34.6,25.9,20,Sat,Thunderstorm,,,Bangkok,13.7563,100.5018,forecast,N/A
+2025-08-31,96,34.1,25.7,27,Sun,Thunderstorm with Hail,,,Bangkok,13.7563,100.5018,forecast,N/A
+2025-09-01,3,32.5,26.7,32,Mon,Overcast,,,Bangkok,13.7563,100.5018,forecast,N/A
+2025-09-02,95,33.1,26.2,31,Tue,Thunderstorm,,,Bangkok,13.7563,100.5018,forecast,N/A
+2025-09-03,95,32.7,27.0,40,Wed,Thunderstorm,,,Bangkok,13.7563,100.5018,forecast,N/A
+2025-09-04,96,32.8,25.9,43,Thu,Thunderstorm with Hail,,,Bangkok,13.7563,100.5018,forecast,N/A
 2025-08-21,2,37.7,27.0,1,Thu,Partly Cloudy,50.55,107.5,Shanghai,31.2304,121.4737,current,Unhealthy for Sensitive Groups
 2025-08-22,3,37.4,27.9,2,Fri,Overcast,57.55,152.5,Shanghai,31.2304,121.4737,current,Unhealthy
 2025-08-23,80,36.9,26.9,6,Sat,Light Showers,51.95,147.5,Shanghai,31.2304,121.4737,current,Unhealthy for Sensitive Groups
@@ -37,74 +21,59 @@ date,weather_code,temperature_max,temperature_min,rain_prob,day,weather,pm2_5,us
 2025-08-25,80,38.4,28.5,14,Mon,Light Showers,39.650000000000006,109.5,Shanghai,31.2304,121.4737,current,Unhealthy for Sensitive Groups
 2025-08-26,80,36.3,27.1,11,Tue,Light Showers,37.75,135.0,Shanghai,31.2304,121.4737,current,Unhealthy for Sensitive Groups
 2025-08-27,3,36.7,26.6,0,Wed,Overcast,18.15,98.0,Shanghai,31.2304,121.4737,current,Moderate
-2025-08-28,3,36.9,27.2,0,Thu,Overcast,,,Shanghai,31.2304,121.4737,forecast,N/A
-2025-08-29,2,36.8,26.4,0,Fri,Partly Cloudy,,,Shanghai,31.2304,121.4737,forecast,N/A
-2025-08-30,3,36.2,27.1,1,Sat,Overcast,,,Shanghai,31.2304,121.4737,forecast,N/A
-2025-08-31,3,37.4,26.8,3,Sun,Overcast,,,Shanghai,31.2304,121.4737,forecast,N/A
-2025-09-01,95,34.4,27.1,22,Mon,Thunderstorm,,,Shanghai,31.2304,121.4737,forecast,N/A
-2025-09-02,80,32.7,27.2,32,Tue,Light Showers,,,Shanghai,31.2304,121.4737,forecast,N/A
-2025-09-03,80,33.7,27.2,23,Wed,Light Showers,,,Shanghai,31.2304,121.4737,forecast,N/A
-2025-08-20,3,33.5,23.9,8,Wed,Overcast,25.799999999999997,81.5,Tokyo,35.6895,139.6917,current,Moderate
-2025-08-21,2,34.5,24.5,10,Thu,Partly Cloudy,28.6,85.0,Tokyo,35.6895,139.6917,current,Moderate
-2025-08-22,3,31.8,24.5,6,Fri,Overcast,35.1,96.5,Tokyo,35.6895,139.6917,current,Moderate
-2025-08-23,3,34.0,24.0,0,Sat,Overcast,33.25,104.5,Tokyo,35.6895,139.6917,current,Unhealthy for Sensitive Groups
-2025-08-24,51,34.6,24.8,10,Sun,Light Drizzle,30.65,87.0,Tokyo,35.6895,139.6917,current,Moderate
-2025-08-25,61,33.3,25.4,16,Mon,Light Rain,27.55,87.5,Tokyo,35.6895,139.6917,current,Moderate
-2025-08-26,3,32.8,24.5,4,Tue,Overcast,17.9,75.0,Tokyo,35.6895,139.6917,current,Moderate
-2025-08-27,1,33.8,26.0,10,Wed,Mainly Clear,16.75,54.0,Tokyo,35.6895,139.6917,current,Moderate
-2025-08-28,51,31.2,24.9,3,Thu,Light Drizzle,,,Tokyo,35.6895,139.6917,forecast,N/A
-2025-08-29,2,31.5,23.8,1,Fri,Partly Cloudy,,,Tokyo,35.6895,139.6917,forecast,N/A
-2025-08-30,2,34.0,25.0,0,Sat,Partly Cloudy,,,Tokyo,35.6895,139.6917,forecast,N/A
-2025-08-31,3,36.1,26.1,3,Sun,Overcast,,,Tokyo,35.6895,139.6917,forecast,N/A
-2025-09-01,2,34.7,26.8,1,Mon,Partly Cloudy,,,Tokyo,35.6895,139.6917,forecast,N/A
-2025-09-02,1,35.6,26.9,6,Tue,Mainly Clear,,,Tokyo,35.6895,139.6917,forecast,N/A
-2025-09-03,80,33.9,25.7,36,Wed,Light Showers,,,Tokyo,35.6895,139.6917,forecast,N/A
-2025-08-20,63,20.4,15.5,21,Wed,Rain,10.9,38.5,New York,40.7128,-74.006,current,Good
+2025-08-28,2,36.9,27.3,0,Thu,Partly Cloudy,12.100000000000001,73.5,Shanghai,31.2304,121.4737,current,Moderate
+2025-08-29,3,36.6,26.7,0,Fri,Overcast,,,Shanghai,31.2304,121.4737,forecast,N/A
+2025-08-30,3,36.9,27.4,1,Sat,Overcast,,,Shanghai,31.2304,121.4737,forecast,N/A
+2025-08-31,96,35.4,26.9,12,Sun,Thunderstorm with Hail,,,Shanghai,31.2304,121.4737,forecast,N/A
+2025-09-01,80,32.2,27.0,35,Mon,Light Showers,,,Shanghai,31.2304,121.4737,forecast,N/A
+2025-09-02,3,34.7,26.8,19,Tue,Overcast,,,Shanghai,31.2304,121.4737,forecast,N/A
+2025-09-03,3,34.1,26.4,6,Wed,Overcast,,,Shanghai,31.2304,121.4737,forecast,N/A
+2025-09-04,3,34.2,27.4,15,Thu,Overcast,,,Shanghai,31.2304,121.4737,forecast,N/A
+2025-08-21,3,20.6,14.3,0,Thu,Overcast,4.1,27.0,London,51.5074,-0.1278,current,Good
+2025-08-22,3,22.2,12.4,0,Fri,Overcast,5.0,25.0,London,51.5074,-0.1278,current,Good
+2025-08-23,3,22.5,16.5,0,Sat,Overcast,6.6,29.0,London,51.5074,-0.1278,current,Good
+2025-08-24,3,24.3,14.5,0,Sun,Overcast,5.25,29.5,London,51.5074,-0.1278,current,Good
+2025-08-25,3,26.7,15.5,0,Mon,Overcast,6.4,29.0,London,51.5074,-0.1278,current,Good
+2025-08-26,80,24.6,18.2,4,Tue,Light Showers,6.65,31.0,London,51.5074,-0.1278,current,Good
+2025-08-27,61,21.9,15.6,14,Wed,Light Rain,7.7,29.5,London,51.5074,-0.1278,current,Good
+2025-08-28,80,19.8,14.2,16,Thu,Light Showers,6.5,30.0,London,51.5074,-0.1278,current,Good
+2025-08-29,95,21.4,15.2,42,Fri,Thunderstorm,,,London,51.5074,-0.1278,forecast,N/A
+2025-08-30,80,19.2,13.9,32,Sat,Light Showers,,,London,51.5074,-0.1278,forecast,N/A
+2025-08-31,3,20.5,14.6,2,Sun,Overcast,,,London,51.5074,-0.1278,forecast,N/A
+2025-09-01,3,19.2,14.2,33,Mon,Overcast,,,London,51.5074,-0.1278,forecast,N/A
+2025-09-02,80,20.0,12.1,18,Tue,Light Showers,,,London,51.5074,-0.1278,forecast,N/A
+2025-09-03,80,20.7,15.4,60,Wed,Light Showers,,,London,51.5074,-0.1278,forecast,N/A
+2025-09-04,3,20.6,14.5,46,Thu,Overcast,,,London,51.5074,-0.1278,forecast,N/A
 2025-08-21,53,23.0,15.4,8,Thu,Drizzle,5.3,37.0,New York,40.7128,-74.006,current,Good
 2025-08-22,1,29.3,13.6,0,Fri,Mainly Clear,5.9,39.5,New York,40.7128,-74.006,current,Good
 2025-08-23,3,27.7,17.9,0,Sat,Overcast,7.199999999999999,51.0,New York,40.7128,-74.006,current,Moderate
 2025-08-24,3,26.5,18.0,0,Sun,Overcast,8.149999999999999,33.0,New York,40.7128,-74.006,current,Good
 2025-08-25,3,31.2,20.6,1,Mon,Overcast,11.4,45.0,New York,40.7128,-74.006,current,Good
 2025-08-26,3,26.7,16.3,0,Tue,Overcast,7.55,47.0,New York,40.7128,-74.006,current,Good
-2025-08-27,1,24.2,15.5,0,Wed,Mainly Clear,8.25,50.5,New York,40.7128,-74.006,current,Moderate
-2025-08-28,3,26.1,12.9,0,Thu,Overcast,,,New York,40.7128,-74.006,forecast,N/A
-2025-08-29,3,26.4,18.2,11,Fri,Overcast,,,New York,40.7128,-74.006,forecast,N/A
-2025-08-30,0,24.7,15.3,3,Sat,Clear,,,New York,40.7128,-74.006,forecast,N/A
-2025-08-31,1,26.1,17.0,2,Sun,Mainly Clear,,,New York,40.7128,-74.006,forecast,N/A
-2025-09-01,3,26.4,18.8,2,Mon,Overcast,,,New York,40.7128,-74.006,forecast,N/A
-2025-09-02,3,24.0,19.9,5,Tue,Overcast,,,New York,40.7128,-74.006,forecast,N/A
-2025-09-03,3,23.5,19.0,8,Wed,Overcast,,,New York,40.7128,-74.006,forecast,N/A
-2025-08-20,95,31.5,24.1,8,Wed,Thunderstorm,48.15,152.5,Beijing,39.9042,116.4074,current,Unhealthy
-2025-08-21,95,30.9,25.8,45,Thu,Thunderstorm,70.65,160.5,Beijing,39.9042,116.4074,current,Unhealthy
-2025-08-22,3,35.0,25.6,0,Fri,Overcast,83.1,168.0,Beijing,39.9042,116.4074,current,Unhealthy
-2025-08-23,61,30.6,21.1,9,Sat,Light Rain,62.05,170.0,Beijing,39.9042,116.4074,current,Unhealthy
-2025-08-24,3,29.1,21.2,0,Sun,Overcast,35.75,110.5,Beijing,39.9042,116.4074,current,Unhealthy for Sensitive Groups
-2025-08-25,45,32.7,21.6,0,Mon,Fog,84.15,165.0,Beijing,39.9042,116.4074,current,Unhealthy
-2025-08-26,45,32.4,23.6,5,Tue,Fog,86.94999999999999,163.0,Beijing,39.9042,116.4074,current,Unhealthy
-2025-08-27,65,25.7,20.5,90,Wed,Heavy Rain,35.15,163.5,Beijing,39.9042,116.4074,current,Unhealthy
-2025-08-28,61,27.5,21.3,4,Thu,Light Rain,,,Beijing,39.9042,116.4074,forecast,N/A
-2025-08-29,45,28.5,23.4,1,Fri,Fog,,,Beijing,39.9042,116.4074,forecast,N/A
-2025-08-30,3,29.6,23.4,5,Sat,Overcast,,,Beijing,39.9042,116.4074,forecast,N/A
-2025-08-31,45,31.0,21.7,4,Sun,Fog,,,Beijing,39.9042,116.4074,forecast,N/A
-2025-09-01,45,32.3,23.0,2,Mon,Fog,,,Beijing,39.9042,116.4074,forecast,N/A
-2025-09-02,45,32.7,23.7,0,Tue,Fog,,,Beijing,39.9042,116.4074,forecast,N/A
-2025-09-03,63,27.1,23.5,12,Wed,Rain,,,Beijing,39.9042,116.4074,forecast,N/A
-2025-08-20,3,34.1,25.0,4,Wed,Overcast,12.850000000000001,50.0,Bangkok,13.7563,100.5018,current,Good
-2025-08-21,95,34.3,26.6,24,Thu,Thunderstorm,18.6,59.5,Bangkok,13.7563,100.5018,current,Moderate
-2025-08-22,95,31.4,25.5,38,Fri,Thunderstorm,11.6,57.5,Bangkok,13.7563,100.5018,current,Moderate
-2025-08-23,95,32.1,25.0,13,Sat,Thunderstorm,7.7,36.5,Bangkok,13.7563,100.5018,current,Good
-2025-08-24,95,33.4,24.4,11,Sun,Thunderstorm,8.7,32.0,Bangkok,13.7563,100.5018,current,Good
-2025-08-25,95,32.5,24.9,9,Mon,Thunderstorm,8.05,39.0,Bangkok,13.7563,100.5018,current,Good
-2025-08-26,61,31.2,26.0,11,Tue,Light Rain,4.25,24.0,Bangkok,13.7563,100.5018,current,Good
-2025-08-27,3,30.3,25.3,9,Wed,Overcast,5.5,24.0,Bangkok,13.7563,100.5018,current,Good
-2025-08-28,3,31.4,24.5,7,Thu,Overcast,,,Bangkok,13.7563,100.5018,forecast,N/A
-2025-08-29,3,33.5,25.2,13,Fri,Overcast,,,Bangkok,13.7563,100.5018,forecast,N/A
-2025-08-30,95,33.6,25.5,22,Sat,Thunderstorm,,,Bangkok,13.7563,100.5018,forecast,N/A
-2025-08-31,80,34.3,25.4,38,Sun,Light Showers,,,Bangkok,13.7563,100.5018,forecast,N/A
-2025-09-01,80,30.2,26.8,37,Mon,Light Showers,,,Bangkok,13.7563,100.5018,forecast,N/A
-2025-09-02,3,31.9,24.8,44,Tue,Overcast,,,Bangkok,13.7563,100.5018,forecast,N/A
-2025-09-03,95,32.6,26.4,46,Wed,Thunderstorm,,,Bangkok,13.7563,100.5018,forecast,N/A
-2025-08-20,51,31.0,23.6,6,Wed,Light Drizzle,8.7,39.5,Seoul,37.5665,126.978,current,Good
+2025-08-27,1,24.2,15.5,0,Wed,Mainly Clear,9.1,49.0,New York,40.7128,-74.006,current,Good
+2025-08-28,3,25.5,13.7,0,Thu,Overcast,27.05,71.5,New York,40.7128,-74.006,current,Moderate
+2025-08-29,3,26.6,16.3,2,Fri,Overcast,,,New York,40.7128,-74.006,forecast,N/A
+2025-08-30,0,24.7,11.2,0,Sat,Clear,,,New York,40.7128,-74.006,forecast,N/A
+2025-08-31,3,26.7,17.1,1,Sun,Overcast,,,New York,40.7128,-74.006,forecast,N/A
+2025-09-01,3,23.9,18.3,1,Mon,Overcast,,,New York,40.7128,-74.006,forecast,N/A
+2025-09-02,3,23.6,18.5,2,Tue,Overcast,,,New York,40.7128,-74.006,forecast,N/A
+2025-09-03,3,22.6,18.5,5,Wed,Overcast,,,New York,40.7128,-74.006,forecast,N/A
+2025-09-04,81,21.6,19.0,11,Thu,Showers,,,New York,40.7128,-74.006,forecast,N/A
+2025-08-21,3,31.0,27.3,11,Thu,Overcast,15.4,63.0,Shenzhen,22.5431,114.0579,current,Moderate
+2025-08-22,3,31.3,27.2,8,Fri,Overcast,43.65,126.5,Shenzhen,22.5431,114.0579,current,Unhealthy for Sensitive Groups
+2025-08-23,3,33.9,26.7,7,Sat,Overcast,29.7,175.5,Shenzhen,22.5431,114.0579,current,Unhealthy
+2025-08-24,3,31.5,27.3,21,Sun,Overcast,10.95,55.0,Shenzhen,22.5431,114.0579,current,Moderate
+2025-08-25,80,32.0,27.2,24,Mon,Light Showers,10.350000000000001,50.0,Shenzhen,22.5431,114.0579,current,Good
+2025-08-26,80,32.8,27.0,6,Tue,Light Showers,17.4,54.5,Shenzhen,22.5431,114.0579,current,Moderate
+2025-08-27,80,32.3,27.4,14,Wed,Light Showers,42.5,113.5,Shenzhen,22.5431,114.0579,current,Unhealthy for Sensitive Groups
+2025-08-28,3,31.6,27.1,36,Thu,Overcast,35.0,123.0,Shenzhen,22.5431,114.0579,current,Unhealthy for Sensitive Groups
+2025-08-29,3,33.8,27.6,4,Fri,Overcast,,,Shenzhen,22.5431,114.0579,forecast,N/A
+2025-08-30,3,32.6,27.3,16,Sat,Overcast,,,Shenzhen,22.5431,114.0579,forecast,N/A
+2025-08-31,80,32.6,27.3,33,Sun,Light Showers,,,Shenzhen,22.5431,114.0579,forecast,N/A
+2025-09-01,95,30.8,27.4,34,Mon,Thunderstorm,,,Shenzhen,22.5431,114.0579,forecast,N/A
+2025-09-02,95,31.3,27.4,32,Tue,Thunderstorm,,,Shenzhen,22.5431,114.0579,forecast,N/A
+2025-09-03,3,32.7,27.6,24,Wed,Overcast,,,Shenzhen,22.5431,114.0579,forecast,N/A
+2025-09-04,3,33.0,27.8,26,Thu,Overcast,,,Shenzhen,22.5431,114.0579,forecast,N/A
 2025-08-21,51,31.6,23.2,11,Thu,Light Drizzle,19.65,66.0,Seoul,37.5665,126.978,current,Moderate
 2025-08-22,3,31.4,23.5,0,Fri,Overcast,18.2,84.0,Seoul,37.5665,126.978,current,Moderate
 2025-08-23,2,31.0,23.3,0,Sat,Partly Cloudy,22.55,65.0,Seoul,37.5665,126.978,current,Moderate
@@ -112,10 +81,11 @@ date,weather_code,temperature_max,temperature_min,rain_prob,day,weather,pm2_5,us
 2025-08-25,53,32.5,23.4,27,Mon,Drizzle,15.25,94.0,Seoul,37.5665,126.978,current,Moderate
 2025-08-26,63,30.5,24.6,40,Tue,Rain,11.5,58.0,Seoul,37.5665,126.978,current,Moderate
 2025-08-27,3,31.0,20.0,0,Wed,Overcast,24.15,71.0,Seoul,37.5665,126.978,current,Moderate
-2025-08-28,3,29.5,22.5,3,Thu,Overcast,,,Seoul,37.5665,126.978,forecast,N/A
-2025-08-29,53,30.2,25.6,9,Fri,Drizzle,,,Seoul,37.5665,126.978,forecast,N/A
-2025-08-30,61,31.0,25.8,22,Sat,Light Rain,,,Seoul,37.5665,126.978,forecast,N/A
-2025-08-31,80,29.8,23.7,21,Sun,Light Showers,,,Seoul,37.5665,126.978,forecast,N/A
-2025-09-01,95,28.2,24.8,68,Mon,Thunderstorm,,,Seoul,37.5665,126.978,forecast,N/A
-2025-09-02,95,28.8,24.7,51,Tue,Thunderstorm,,,Seoul,37.5665,126.978,forecast,N/A
-2025-09-03,45,30.7,23.9,20,Wed,Fog,,,Seoul,37.5665,126.978,forecast,N/A
+2025-08-28,3,29.0,22.6,0,Thu,Overcast,26.75,104.5,Seoul,37.5665,126.978,current,Unhealthy for Sensitive Groups
+2025-08-29,53,30.8,25.5,16,Fri,Drizzle,,,Seoul,37.5665,126.978,forecast,N/A
+2025-08-30,61,30.2,25.4,29,Sat,Light Rain,,,Seoul,37.5665,126.978,forecast,N/A
+2025-08-31,55,28.2,24.0,23,Sun,Heavy Drizzle,,,Seoul,37.5665,126.978,forecast,N/A
+2025-09-01,95,27.3,24.8,69,Mon,Thunderstorm,,,Seoul,37.5665,126.978,forecast,N/A
+2025-09-02,3,29.2,24.1,13,Tue,Overcast,,,Seoul,37.5665,126.978,forecast,N/A
+2025-09-03,45,31.2,22.3,9,Wed,Fog,,,Seoul,37.5665,126.978,forecast,N/A
+2025-09-04,80,31.4,25.5,25,Thu,Light Showers,,,Seoul,37.5665,126.978,forecast,N/A
