@@ -1,65 +1,4 @@
 date,weather_code,temperature_max,temperature_min,rain_prob,day,weather,pm2_5,us_aqi,City,lat,lon,forecast_flag,us_aqi_status
-2026-07-17,53,28.7,21.7,22,Fri,Drizzle,38.1,110.5,Seoul,37.5665,126.978,current,Unhealthy for Sensitive Groups
-2026-07-18,65,27.2,21.1,81,Sat,Heavy Rain,9.399999999999999,82.5,Seoul,37.5665,126.978,current,Moderate
-2026-07-19,3,28.3,22.5,14,Sun,Overcast,17.25,61.0,Seoul,37.5665,126.978,current,Moderate
-2026-07-20,63,25.0,22.2,82,Mon,Rain,24.55,91.0,Seoul,37.5665,126.978,current,Moderate
-2026-07-21,63,26.5,23.5,77,Tue,Rain,7.5,61.0,Seoul,37.5665,126.978,current,Moderate
-2026-07-22,53,29.1,22.4,69,Wed,Drizzle,17.0,59.5,Seoul,37.5665,126.978,current,Moderate
-2026-07-23,55,29.0,24.9,95,Thu,Heavy Drizzle,14.3,57.5,Seoul,37.5665,126.978,current,Moderate
-2026-07-24,1,31.6,24.3,32,Fri,Mainly Clear,13.2,64.0,Seoul,37.5665,126.978,current,Moderate
-2026-07-25,51,30.8,24.2,61,Sat,Light Drizzle,,,Seoul,37.5665,126.978,forecast,N/A
-2026-07-26,53,30.1,24.9,64,Sun,Drizzle,,,Seoul,37.5665,126.978,forecast,N/A
-2026-07-27,51,29.1,24.4,42,Mon,Light Drizzle,,,Seoul,37.5665,126.978,forecast,N/A
-2026-07-28,51,30.6,24.3,11,Tue,Light Drizzle,,,Seoul,37.5665,126.978,forecast,N/A
-2026-07-29,51,30.0,24.7,12,Wed,Light Drizzle,,,Seoul,37.5665,126.978,forecast,N/A
-2026-07-30,95,30.8,25.2,19,Thu,Thunderstorm,,,Seoul,37.5665,126.978,forecast,N/A
-2026-07-31,51,31.0,25.6,14,Fri,Light Drizzle,,,Seoul,37.5665,126.978,forecast,N/A
-2026-07-17,61,29.5,25.0,65,Fri,Light Rain,24.049999999999997,98.5,Tokyo,35.6895,139.6917,current,Moderate
-2026-07-18,51,28.3,23.9,27,Sat,Light Drizzle,13.5,66.5,Tokyo,35.6895,139.6917,current,Moderate
-2026-07-19,2,31.4,24.5,3,Sun,Partly Cloudy,10.8,54.5,Tokyo,35.6895,139.6917,current,Moderate
-2026-07-20,3,34.3,23.8,0,Mon,Overcast,19.799999999999997,65.5,Tokyo,35.6895,139.6917,current,Moderate
-2026-07-21,3,34.5,24.5,25,Tue,Overcast,27.85,72.5,Tokyo,35.6895,139.6917,current,Moderate
-2026-07-22,3,34.9,25.2,28,Wed,Overcast,34.6,94.5,Tokyo,35.6895,139.6917,current,Moderate
-2026-07-23,2,34.8,25.6,37,Thu,Partly Cloudy,34.75,106.0,Tokyo,35.6895,139.6917,current,Unhealthy for Sensitive Groups
-2026-07-24,61,32.1,24.0,55,Fri,Light Rain,19.25,83.5,Tokyo,35.6895,139.6917,current,Moderate
-2026-07-25,61,33.9,24.3,26,Sat,Light Rain,,,Tokyo,35.6895,139.6917,forecast,N/A
-2026-07-26,53,30.4,24.1,44,Sun,Drizzle,,,Tokyo,35.6895,139.6917,forecast,N/A
-2026-07-27,51,31.0,22.8,43,Mon,Light Drizzle,,,Tokyo,35.6895,139.6917,forecast,N/A
-2026-07-28,51,30.8,22.2,39,Tue,Light Drizzle,,,Tokyo,35.6895,139.6917,forecast,N/A
-2026-07-29,3,32.4,23.7,8,Wed,Overcast,,,Tokyo,35.6895,139.6917,forecast,N/A
-2026-07-30,95,35.0,24.3,10,Thu,Thunderstorm,,,Tokyo,35.6895,139.6917,forecast,N/A
-2026-07-31,96,30.8,24.2,23,Fri,Thunderstorm with Hail,,,Tokyo,35.6895,139.6917,forecast,N/A
-2026-07-17,3,28.9,16.6,0,Fri,Overcast,9.55,45.5,London,51.5074,-0.1278,current,Good
-2026-07-18,3,22.7,16.2,0,Sat,Overcast,7.3500000000000005,52.0,London,51.5074,-0.1278,current,Moderate
-2026-07-19,3,22.6,13.5,0,Sun,Overcast,3.4,34.0,London,51.5074,-0.1278,current,Good
-2026-07-20,3,25.6,13.1,0,Mon,Overcast,4.2,29.5,London,51.5074,-0.1278,current,Good
-2026-07-21,3,23.1,15.7,0,Tue,Overcast,7.6,33.0,London,51.5074,-0.1278,current,Good
-2026-07-22,3,26.6,17.2,0,Wed,Overcast,10.0,53.0,London,51.5074,-0.1278,current,Moderate
-2026-07-23,3,26.6,17.5,0,Thu,Overcast,8.0,47.5,London,51.5074,-0.1278,current,Good
-2026-07-24,3,28.0,18.4,0,Fri,Overcast,7.7,47.0,London,51.5074,-0.1278,current,Good
-2026-07-25,3,28.9,17.9,0,Sat,Overcast,,,London,51.5074,-0.1278,forecast,N/A
-2026-07-26,51,24.8,19.2,7,Sun,Light Drizzle,,,London,51.5074,-0.1278,forecast,N/A
-2026-07-27,1,26.4,15.6,0,Mon,Mainly Clear,,,London,51.5074,-0.1278,forecast,N/A
-2026-07-28,1,29.5,20.0,1,Tue,Mainly Clear,,,London,51.5074,-0.1278,forecast,N/A
-2026-07-29,2,31.5,21.7,1,Wed,Partly Cloudy,,,London,51.5074,-0.1278,forecast,N/A
-2026-07-30,2,32.4,21.4,1,Thu,Partly Cloudy,,,London,51.5074,-0.1278,forecast,N/A
-2026-07-31,51,29.4,19.7,7,Fri,Light Drizzle,,,London,51.5074,-0.1278,forecast,N/A
-2026-07-17,96,29.3,24.9,81,Fri,Thunderstorm with Hail,18.25,69.0,Shenzhen,22.5431,114.0579,current,Moderate
-2026-07-18,96,30.4,23.6,67,Sat,Thunderstorm with Hail,18.5,72.0,Shenzhen,22.5431,114.0579,current,Moderate
-2026-07-19,96,30.5,25.6,52,Sun,Thunderstorm with Hail,18.35,73.0,Shenzhen,22.5431,114.0579,current,Moderate
-2026-07-20,95,29.1,25.4,57,Mon,Thunderstorm,29.7,78.5,Shenzhen,22.5431,114.0579,current,Moderate
-2026-07-21,95,30.4,23.9,64,Tue,Thunderstorm,25.049999999999997,90.0,Shenzhen,22.5431,114.0579,current,Moderate
-2026-07-22,51,31.4,24.6,21,Wed,Light Drizzle,25.3,92.0,Shenzhen,22.5431,114.0579,current,Moderate
-2026-07-23,53,32.7,24.7,21,Thu,Drizzle,29.6,85.5,Shenzhen,22.5431,114.0579,current,Moderate
-2026-07-24,3,33.0,25.4,1,Fri,Overcast,40.2,103.0,Shenzhen,22.5431,114.0579,current,Unhealthy for Sensitive Groups
-2026-07-25,96,33.1,26.4,36,Sat,Thunderstorm with Hail,,,Shenzhen,22.5431,114.0579,forecast,N/A
-2026-07-26,96,27.4,24.7,87,Sun,Thunderstorm with Hail,,,Shenzhen,22.5431,114.0579,forecast,N/A
-2026-07-27,95,31.2,25.4,59,Mon,Thunderstorm,,,Shenzhen,22.5431,114.0579,forecast,N/A
-2026-07-28,80,27.6,24.0,60,Tue,Light Showers,,,Shenzhen,22.5431,114.0579,forecast,N/A
-2026-07-29,95,27.6,23.8,75,Wed,Thunderstorm,,,Shenzhen,22.5431,114.0579,forecast,N/A
-2026-07-30,95,30.2,24.8,60,Thu,Thunderstorm,,,Shenzhen,22.5431,114.0579,forecast,N/A
-2026-07-31,95,28.5,25.2,56,Fri,Thunderstorm,,,Shenzhen,22.5431,114.0579,forecast,N/A
-2026-07-17,95,32.3,26.1,53,Fri,Thunderstorm,11.0,53.0,Bangkok,13.7563,100.5018,current,Moderate
 2026-07-18,55,35.3,25.5,12,Sat,Heavy Drizzle,17.85,64.5,Bangkok,13.7563,100.5018,current,Moderate
 2026-07-19,53,35.2,25.6,19,Sun,Drizzle,16.75,65.0,Bangkok,13.7563,100.5018,current,Moderate
 2026-07-20,51,35.5,24.9,8,Mon,Light Drizzle,16.7,64.0,Bangkok,13.7563,100.5018,current,Moderate
@@ -67,14 +6,14 @@ date,weather_code,temperature_max,temperature_min,rain_prob,day,weather,pm2_5,us
 2026-07-22,95,36.0,26.3,48,Wed,Thunderstorm,15.75,64.0,Bangkok,13.7563,100.5018,current,Moderate
 2026-07-23,95,32.3,25.6,53,Thu,Thunderstorm,8.1,59.0,Bangkok,13.7563,100.5018,current,Moderate
 2026-07-24,81,34.6,26.4,35,Fri,Showers,9.85,49.5,Bangkok,13.7563,100.5018,current,Good
-2026-07-25,53,33.9,26.0,51,Sat,Drizzle,,,Bangkok,13.7563,100.5018,forecast,N/A
-2026-07-26,80,34.7,25.8,37,Sun,Light Showers,,,Bangkok,13.7563,100.5018,forecast,N/A
-2026-07-27,95,34.7,26.3,41,Mon,Thunderstorm,,,Bangkok,13.7563,100.5018,forecast,N/A
-2026-07-28,81,32.1,25.6,46,Tue,Showers,,,Bangkok,13.7563,100.5018,forecast,N/A
-2026-07-29,95,30.6,25.3,57,Wed,Thunderstorm,,,Bangkok,13.7563,100.5018,forecast,N/A
-2026-07-30,55,29.2,25.0,69,Thu,Heavy Drizzle,,,Bangkok,13.7563,100.5018,forecast,N/A
-2026-07-31,80,26.5,25.8,72,Fri,Light Showers,,,Bangkok,13.7563,100.5018,forecast,N/A
-2026-07-17,53,40.4,31.4,14,Fri,Drizzle,33.75,124.0,Shanghai,31.2304,121.4737,current,Unhealthy for Sensitive Groups
+2026-07-25,55,35.8,26.3,39,Sat,Heavy Drizzle,8.95,50.0,Bangkok,13.7563,100.5018,current,Good
+2026-07-26,96,32.9,25.9,37,Sun,Thunderstorm with Hail,,,Bangkok,13.7563,100.5018,forecast,N/A
+2026-07-27,95,33.2,25.7,35,Mon,Thunderstorm,,,Bangkok,13.7563,100.5018,forecast,N/A
+2026-07-28,81,32.2,26.1,48,Tue,Showers,,,Bangkok,13.7563,100.5018,forecast,N/A
+2026-07-29,55,31.2,25.6,53,Wed,Heavy Drizzle,,,Bangkok,13.7563,100.5018,forecast,N/A
+2026-07-30,53,29.6,25.4,66,Thu,Drizzle,,,Bangkok,13.7563,100.5018,forecast,N/A
+2026-07-31,95,29.0,25.8,68,Fri,Thunderstorm,,,Bangkok,13.7563,100.5018,forecast,N/A
+2026-08-01,53,30.4,26.0,57,Sat,Drizzle,,,Bangkok,13.7563,100.5018,forecast,N/A
 2026-07-18,96,36.7,26.7,44,Sat,Thunderstorm with Hail,41.5,106.5,Shanghai,31.2304,121.4737,current,Unhealthy for Sensitive Groups
 2026-07-19,96,35.2,26.2,56,Sun,Thunderstorm with Hail,68.25,155.5,Shanghai,31.2304,121.4737,current,Unhealthy
 2026-07-20,96,33.3,26.9,49,Mon,Thunderstorm with Hail,34.3,156.0,Shanghai,31.2304,121.4737,current,Unhealthy
@@ -82,14 +21,44 @@ date,weather_code,temperature_max,temperature_min,rain_prob,day,weather,pm2_5,us
 2026-07-22,96,33.6,25.9,54,Wed,Thunderstorm with Hail,45.2,126.0,Shanghai,31.2304,121.4737,current,Unhealthy for Sensitive Groups
 2026-07-23,51,35.1,26.6,12,Thu,Light Drizzle,34.150000000000006,119.0,Shanghai,31.2304,121.4737,current,Unhealthy for Sensitive Groups
 2026-07-24,51,36.6,27.6,6,Fri,Light Drizzle,21.05,88.5,Shanghai,31.2304,121.4737,current,Moderate
-2026-07-25,1,35.8,28.0,0,Sat,Mainly Clear,,,Shanghai,31.2304,121.4737,forecast,N/A
-2026-07-26,3,36.4,27.8,1,Sun,Overcast,,,Shanghai,31.2304,121.4737,forecast,N/A
-2026-07-27,3,35.6,28.0,6,Mon,Overcast,,,Shanghai,31.2304,121.4737,forecast,N/A
-2026-07-28,3,34.9,27.4,7,Tue,Overcast,,,Shanghai,31.2304,121.4737,forecast,N/A
-2026-07-29,3,37.0,27.9,3,Wed,Overcast,,,Shanghai,31.2304,121.4737,forecast,N/A
-2026-07-30,53,39.6,27.5,12,Thu,Drizzle,,,Shanghai,31.2304,121.4737,forecast,N/A
-2026-07-31,51,38.3,28.3,22,Fri,Light Drizzle,,,Shanghai,31.2304,121.4737,forecast,N/A
-2026-07-17,3,31.7,20.4,0,Fri,Overcast,39.05,151.5,New York,40.7128,-74.006,current,Unhealthy
+2026-07-25,1,36.2,28.2,0,Sat,Mainly Clear,13.35,66.5,Shanghai,31.2304,121.4737,current,Moderate
+2026-07-26,3,37.1,28.1,0,Sun,Overcast,,,Shanghai,31.2304,121.4737,forecast,N/A
+2026-07-27,3,34.5,28.5,1,Mon,Overcast,,,Shanghai,31.2304,121.4737,forecast,N/A
+2026-07-28,51,36.2,27.7,9,Tue,Light Drizzle,,,Shanghai,31.2304,121.4737,forecast,N/A
+2026-07-29,3,34.4,28.1,5,Wed,Overcast,,,Shanghai,31.2304,121.4737,forecast,N/A
+2026-07-30,51,39.3,27.4,16,Thu,Light Drizzle,,,Shanghai,31.2304,121.4737,forecast,N/A
+2026-07-31,95,38.7,27.6,19,Fri,Thunderstorm,,,Shanghai,31.2304,121.4737,forecast,N/A
+2026-08-01,95,37.4,29.6,21,Sat,Thunderstorm,,,Shanghai,31.2304,121.4737,forecast,N/A
+2026-07-18,65,27.2,21.1,81,Sat,Heavy Rain,9.399999999999999,82.5,Seoul,37.5665,126.978,current,Moderate
+2026-07-19,3,28.3,22.5,14,Sun,Overcast,17.25,61.0,Seoul,37.5665,126.978,current,Moderate
+2026-07-20,63,25.0,22.2,82,Mon,Rain,24.55,91.0,Seoul,37.5665,126.978,current,Moderate
+2026-07-21,63,26.5,23.5,77,Tue,Rain,7.5,61.0,Seoul,37.5665,126.978,current,Moderate
+2026-07-22,53,29.1,22.4,69,Wed,Drizzle,17.0,59.5,Seoul,37.5665,126.978,current,Moderate
+2026-07-23,55,29.0,24.9,95,Thu,Heavy Drizzle,14.3,57.5,Seoul,37.5665,126.978,current,Moderate
+2026-07-24,1,31.6,24.3,32,Fri,Mainly Clear,13.2,64.0,Seoul,37.5665,126.978,current,Moderate
+2026-07-25,51,29.9,24.2,50,Sat,Light Drizzle,12.2,58.0,Seoul,37.5665,126.978,current,Moderate
+2026-07-26,53,31.9,24.3,69,Sun,Drizzle,,,Seoul,37.5665,126.978,forecast,N/A
+2026-07-27,53,31.0,24.9,56,Mon,Drizzle,,,Seoul,37.5665,126.978,forecast,N/A
+2026-07-28,55,28.6,24.3,40,Tue,Heavy Drizzle,,,Seoul,37.5665,126.978,forecast,N/A
+2026-07-29,51,30.6,24.7,11,Wed,Light Drizzle,,,Seoul,37.5665,126.978,forecast,N/A
+2026-07-30,51,29.6,24.6,13,Thu,Light Drizzle,,,Seoul,37.5665,126.978,forecast,N/A
+2026-07-31,51,30.2,24.9,14,Fri,Light Drizzle,,,Seoul,37.5665,126.978,forecast,N/A
+2026-08-01,95,31.3,25.8,15,Sat,Thunderstorm,,,Seoul,37.5665,126.978,forecast,N/A
+2026-07-18,96,30.4,23.6,67,Sat,Thunderstorm with Hail,18.5,72.0,Shenzhen,22.5431,114.0579,current,Moderate
+2026-07-19,96,30.5,25.6,52,Sun,Thunderstorm with Hail,18.35,73.0,Shenzhen,22.5431,114.0579,current,Moderate
+2026-07-20,95,29.1,25.4,57,Mon,Thunderstorm,29.7,78.5,Shenzhen,22.5431,114.0579,current,Moderate
+2026-07-21,95,30.4,23.9,64,Tue,Thunderstorm,25.049999999999997,90.0,Shenzhen,22.5431,114.0579,current,Moderate
+2026-07-22,51,31.4,24.6,21,Wed,Light Drizzle,25.3,92.0,Shenzhen,22.5431,114.0579,current,Moderate
+2026-07-23,53,32.7,24.7,21,Thu,Drizzle,29.6,85.5,Shenzhen,22.5431,114.0579,current,Moderate
+2026-07-24,3,33.0,25.4,1,Fri,Overcast,40.2,103.0,Shenzhen,22.5431,114.0579,current,Unhealthy for Sensitive Groups
+2026-07-25,96,33.9,25.2,49,Sat,Thunderstorm with Hail,46.65,135.0,Shenzhen,22.5431,114.0579,current,Unhealthy for Sensitive Groups
+2026-07-26,96,26.2,24.2,99,Sun,Thunderstorm with Hail,,,Shenzhen,22.5431,114.0579,forecast,N/A
+2026-07-27,96,31.1,25.5,65,Mon,Thunderstorm with Hail,,,Shenzhen,22.5431,114.0579,forecast,N/A
+2026-07-28,55,29.4,24.6,46,Tue,Heavy Drizzle,,,Shenzhen,22.5431,114.0579,forecast,N/A
+2026-07-29,95,27.1,23.9,76,Wed,Thunderstorm,,,Shenzhen,22.5431,114.0579,forecast,N/A
+2026-07-30,95,29.9,24.5,64,Thu,Thunderstorm,,,Shenzhen,22.5431,114.0579,forecast,N/A
+2026-07-31,95,29.8,25.3,53,Fri,Thunderstorm,,,Shenzhen,22.5431,114.0579,forecast,N/A
+2026-08-01,96,27.3,25.0,54,Sat,Thunderstorm with Hail,,,Shenzhen,22.5431,114.0579,forecast,N/A
 2026-07-18,81,25.1,21.3,24,Sat,Showers,61.6,123.0,New York,40.7128,-74.006,current,Unhealthy for Sensitive Groups
 2026-07-19,3,27.2,19.8,2,Sun,Overcast,12.45,99.5,New York,40.7128,-74.006,current,Moderate
 2026-07-20,0,27.6,15.4,0,Mon,Clear,15.7,61.5,New York,40.7128,-74.006,current,Moderate
@@ -97,10 +66,56 @@ date,weather_code,temperature_max,temperature_min,rain_prob,day,weather,pm2_5,us
 2026-07-22,3,31.5,22.4,3,Wed,Overcast,8.35,52.5,New York,40.7128,-74.006,current,Moderate
 2026-07-23,1,27.6,16.7,0,Thu,Mainly Clear,11.0,56.0,New York,40.7128,-74.006,current,Moderate
 2026-07-24,3,28.4,16.9,0,Fri,Overcast,16.2,60.5,New York,40.7128,-74.006,current,Moderate
-2026-07-25,3,28.0,15.2,0,Sat,Overcast,,,New York,40.7128,-74.006,forecast,N/A
-2026-07-26,2,28.4,13.9,0,Sun,Partly Cloudy,,,New York,40.7128,-74.006,forecast,N/A
-2026-07-27,82,25.9,20.2,14,Mon,Heavy Showers,,,New York,40.7128,-74.006,forecast,N/A
-2026-07-28,95,24.4,20.5,55,Tue,Thunderstorm,,,New York,40.7128,-74.006,forecast,N/A
-2026-07-29,3,30.5,20.9,28,Wed,Overcast,,,New York,40.7128,-74.006,forecast,N/A
-2026-07-30,3,28.1,21.2,8,Thu,Overcast,,,New York,40.7128,-74.006,forecast,N/A
-2026-07-31,2,30.8,21.0,5,Fri,Partly Cloudy,,,New York,40.7128,-74.006,forecast,N/A
+2026-07-25,3,27.7,17.1,0,Sat,Overcast,10.8,64.0,New York,40.7128,-74.006,current,Moderate
+2026-07-26,3,28.9,15.5,0,Sun,Overcast,,,New York,40.7128,-74.006,forecast,N/A
+2026-07-27,81,27.3,20.7,14,Mon,Showers,,,New York,40.7128,-74.006,forecast,N/A
+2026-07-28,80,25.6,20.7,54,Tue,Light Showers,,,New York,40.7128,-74.006,forecast,N/A
+2026-07-29,53,23.9,19.5,51,Wed,Drizzle,,,New York,40.7128,-74.006,forecast,N/A
+2026-07-30,3,27.0,19.2,14,Thu,Overcast,,,New York,40.7128,-74.006,forecast,N/A
+2026-07-31,3,29.3,20.2,7,Fri,Overcast,,,New York,40.7128,-74.006,forecast,N/A
+2026-08-01,3,29.8,22.2,7,Sat,Overcast,,,New York,40.7128,-74.006,forecast,N/A
+2026-07-18,3,22.7,16.2,0,Sat,Overcast,7.3500000000000005,52.0,London,51.5074,-0.1278,current,Moderate
+2026-07-19,3,22.6,13.5,0,Sun,Overcast,3.4,34.0,London,51.5074,-0.1278,current,Good
+2026-07-20,3,25.6,13.1,0,Mon,Overcast,4.2,29.5,London,51.5074,-0.1278,current,Good
+2026-07-21,3,23.1,15.7,0,Tue,Overcast,7.6,33.0,London,51.5074,-0.1278,current,Good
+2026-07-22,3,26.6,17.2,0,Wed,Overcast,10.0,53.0,London,51.5074,-0.1278,current,Moderate
+2026-07-23,3,26.6,17.5,0,Thu,Overcast,8.0,47.5,London,51.5074,-0.1278,current,Good
+2026-07-24,3,28.0,18.4,0,Fri,Overcast,7.7,47.0,London,51.5074,-0.1278,current,Good
+2026-07-25,3,28.8,17.4,0,Sat,Overcast,5.5,39.0,London,51.5074,-0.1278,current,Good
+2026-07-26,51,24.6,19.0,5,Sun,Light Drizzle,,,London,51.5074,-0.1278,forecast,N/A
+2026-07-27,3,25.7,15.8,0,Mon,Overcast,,,London,51.5074,-0.1278,forecast,N/A
+2026-07-28,2,28.6,19.5,0,Tue,Partly Cloudy,,,London,51.5074,-0.1278,forecast,N/A
+2026-07-29,2,33.8,22.4,0,Wed,Partly Cloudy,,,London,51.5074,-0.1278,forecast,N/A
+2026-07-30,3,30.4,21.5,0,Thu,Overcast,,,London,51.5074,-0.1278,forecast,N/A
+2026-07-31,3,27.0,20.5,1,Fri,Overcast,,,London,51.5074,-0.1278,forecast,N/A
+2026-08-01,3,26.2,20.9,8,Sat,Overcast,,,London,51.5074,-0.1278,forecast,N/A
+2026-07-18,51,29.8,22.9,23,Sat,Light Drizzle,57.0,122.0,Beijing,39.9042,116.4074,current,Unhealthy for Sensitive Groups
+2026-07-19,51,32.8,23.4,8,Sun,Light Drizzle,56.7,174.0,Beijing,39.9042,116.4074,current,Unhealthy
+2026-07-20,95,31.9,22.5,59,Mon,Thunderstorm,55.099999999999994,142.5,Beijing,39.9042,116.4074,current,Unhealthy for Sensitive Groups
+2026-07-21,51,30.2,22.2,13,Tue,Light Drizzle,39.2,133.0,Beijing,39.9042,116.4074,current,Unhealthy for Sensitive Groups
+2026-07-22,95,28.5,23.2,38,Wed,Thunderstorm,86.05000000000001,181.5,Beijing,39.9042,116.4074,current,Unhealthy
+2026-07-23,55,27.8,22.6,41,Thu,Heavy Drizzle,69.15,164.5,Beijing,39.9042,116.4074,current,Unhealthy
+2026-07-24,53,29.9,23.1,15,Fri,Drizzle,73.2,165.0,Beijing,39.9042,116.4074,current,Unhealthy
+2026-07-25,95,30.7,24.1,30,Sat,Thunderstorm,58.75,146.0,Beijing,39.9042,116.4074,current,Unhealthy for Sensitive Groups
+2026-07-26,51,31.9,24.5,23,Sun,Light Drizzle,,,Beijing,39.9042,116.4074,forecast,N/A
+2026-07-27,95,33.1,25.1,18,Mon,Thunderstorm,,,Beijing,39.9042,116.4074,forecast,N/A
+2026-07-28,51,34.5,26.0,20,Tue,Light Drizzle,,,Beijing,39.9042,116.4074,forecast,N/A
+2026-07-29,51,34.9,26.0,10,Wed,Light Drizzle,,,Beijing,39.9042,116.4074,forecast,N/A
+2026-07-30,51,34.7,26.7,13,Thu,Light Drizzle,,,Beijing,39.9042,116.4074,forecast,N/A
+2026-07-31,51,34.1,26.9,16,Fri,Light Drizzle,,,Beijing,39.9042,116.4074,forecast,N/A
+2026-08-01,51,38.5,29.1,33,Sat,Light Drizzle,,,Beijing,39.9042,116.4074,forecast,N/A
+2026-07-18,51,28.3,23.9,27,Sat,Light Drizzle,13.5,66.5,Tokyo,35.6895,139.6917,current,Moderate
+2026-07-19,2,31.4,24.5,3,Sun,Partly Cloudy,10.8,54.5,Tokyo,35.6895,139.6917,current,Moderate
+2026-07-20,3,34.3,23.8,0,Mon,Overcast,19.799999999999997,65.5,Tokyo,35.6895,139.6917,current,Moderate
+2026-07-21,3,34.5,24.5,25,Tue,Overcast,27.85,72.5,Tokyo,35.6895,139.6917,current,Moderate
+2026-07-22,3,34.9,25.2,28,Wed,Overcast,34.6,94.5,Tokyo,35.6895,139.6917,current,Moderate
+2026-07-23,2,34.8,25.6,37,Thu,Partly Cloudy,34.75,106.0,Tokyo,35.6895,139.6917,current,Unhealthy for Sensitive Groups
+2026-07-24,61,32.1,24.0,55,Fri,Light Rain,19.25,83.5,Tokyo,35.6895,139.6917,current,Moderate
+2026-07-25,61,36.0,23.6,36,Sat,Light Rain,32.95,78.0,Tokyo,35.6895,139.6917,current,Moderate
+2026-07-26,63,32.1,22.8,51,Sun,Rain,,,Tokyo,35.6895,139.6917,forecast,N/A
+2026-07-27,63,30.2,24.0,51,Mon,Rain,,,Tokyo,35.6895,139.6917,forecast,N/A
+2026-07-28,55,28.8,23.0,50,Tue,Heavy Drizzle,,,Tokyo,35.6895,139.6917,forecast,N/A
+2026-07-29,53,30.0,22.8,44,Wed,Drizzle,,,Tokyo,35.6895,139.6917,forecast,N/A
+2026-07-30,3,32.7,24.2,7,Thu,Overcast,,,Tokyo,35.6895,139.6917,forecast,N/A
+2026-07-31,3,36.0,26.5,15,Fri,Overcast,,,Tokyo,35.6895,139.6917,forecast,N/A
+2026-08-01,95,31.1,23.5,32,Sat,Thunderstorm,,,Tokyo,35.6895,139.6917,forecast,N/A
